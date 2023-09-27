@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PHINMAP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="university_of_pangasinan_campos_map">University of Pangasinan Campos Map</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="creating_account">Creating Account</string>
+    <string name="fullname">Fullname</string>
+    <string name="student_id">Student ID</string>
+    <string name="register">Register</string>
+    <string name="submit">Submit</string>
+    <string name="phinma_university_of_pangasinan_campus_map">PHINMA-University of Pangasinan Campus Map</string>
+</resources>
